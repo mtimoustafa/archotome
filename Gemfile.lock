@@ -27,7 +27,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  PoParser
+  PoParser (~> 3.2)
   nokogiri (~> 1.16)
 
 BUNDLED WITH
